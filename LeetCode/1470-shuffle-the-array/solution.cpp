@@ -9,7 +9,7 @@ public:
                 ans[i] = nums[i];
             }
             else{
-                ans[i] = nums[n+i];
+                ans[i] = nums[(n-1)+i];
             }
         }
         return ans;
