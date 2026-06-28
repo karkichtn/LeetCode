@@ -6,15 +6,14 @@ public:
         
         for(int i=0; i<accounts.size(); i++){
             int wealth = 0;
+
             for(int j=0; j<accounts[1].size(); j++){
                 wealth += accounts[i][j];
             }
 
-            maxwealth = max(maxwealth,wealth);
+            maxwealth = max(maxwealth, wealth);
         }
 
-        return maxwealth;
-
-        
+        return maxwealth;       
     }
 };
