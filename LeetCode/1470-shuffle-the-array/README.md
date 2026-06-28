@@ -41,6 +41,6 @@ Output: [1,2,1,2]
 ## Submission
 
 - Language: cpp
-- Runtime: 0 ms
-- Memory: 8.4 MB
-- Submission ID: runcode_1782399703.171921_K9ThggCkhJ
+- Runtime: 2 ms
+- Memory: 13.3 MB
+- Submission ID: 2048669737
