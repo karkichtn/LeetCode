@@ -50,5 +50,5 @@ Hence, s = "ngguoy" is the acronym.
 
 - Language: cpp
 - Runtime: 0 ms
-- Memory: 8.2 MB
-- Submission ID: runcode_1782679358.1100078_uRbscfOwJ9
+- Memory: 43.5 MB
+- Submission ID: 2049356528
