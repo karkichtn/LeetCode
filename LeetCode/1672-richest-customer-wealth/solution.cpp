@@ -7,7 +7,7 @@ public:
         for(int i=0; i<accounts.size(); i++){
             int wealth = 0;
 
-            for(int j=0; j<accounts[1].size(); j++){
+            for(int j=0; j<accounts[i].size(); j++){
                 wealth += accounts[i][j];
             }
 

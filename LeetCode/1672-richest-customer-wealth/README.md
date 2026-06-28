@@ -51,5 +51,5 @@ Output: 17
 
 - Language: cpp
 - Runtime: 0 ms
-- Memory: 8.2 MB
-- Submission ID: runcode_1782656259.8483052_1uxNJCL9vm
+- Memory: 11.3 MB
+- Submission ID: 2049022712
