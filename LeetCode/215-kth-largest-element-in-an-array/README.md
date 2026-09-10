@@ -34,6 +34,6 @@ Output: 4
 ## Submission
 
 - Language: cpp
-- Runtime: 0 ms
-- Memory: 8.3 MB
-- Submission ID: runcode_1789035869.6218183_mPMFFdSDrx
+- Runtime: 30 ms
+- Memory: 69 MB
+- Submission ID: 2137378226
