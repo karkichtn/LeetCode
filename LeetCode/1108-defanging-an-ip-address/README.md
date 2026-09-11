@@ -31,6 +31,6 @@ Output: "255[.]100[.]50[.]0"
 ## Submission
 
 - Language: cpp
-- Runtime: 3 ms
-- Memory: 7.7 MB
-- Submission ID: runcode_1788877242.4196155_E10qD1Z2s2
+- Runtime: 0 ms
+- Memory: 7.5 MB
+- Submission ID: runcode_1789103336.5552747_GtkmxyleZB
