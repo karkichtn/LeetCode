@@ -7,14 +7,14 @@ public:
         while(index<address.size())
         {
             if(address[index]=='.')
-            address[index]='[.]';
-            // else
-            // ans+=address[index];
+            ans+="[.]";
+            else
+            ans+=address[index];
 
             index++;
 
         }
 
-        return address;
+        return ans;
     }
 };
