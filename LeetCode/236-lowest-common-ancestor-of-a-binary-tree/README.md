@@ -46,6 +46,6 @@ Output: 1
 ## Submission
 
 - Language: cpp
-- Runtime: 0 ms
-- Memory: 8.3 MB
-- Submission ID: runcode_1789640353.5536773_UE8VAGzT5D
+- Runtime: 59 ms
+- Memory: 44 MB
+- Submission ID: 2144607437
