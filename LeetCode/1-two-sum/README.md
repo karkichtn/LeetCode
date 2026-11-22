@@ -55,5 +55,5 @@ You are given an array of integers `nums` and an integer `target`, return *indic
 
 - Language: cpp
 - Runtime: 0 ms
-- Memory: 8.4 MB
-- Submission ID: runcode_1795328549.0327864_yRKVjF6QsL
+- Memory: 8.3 MB
+- Submission ID: runcode_1795328616.024674_wE2gZjHBUY
